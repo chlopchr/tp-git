@@ -10,5 +10,5 @@ def test_addition():
 def test_soustraction():
     assert soustraction(2, 2) == 0
 
-def test_addition():
-    assert addition(1, 2) == 0.5
+def test_division():
+    assert division(1, 2) == 0.5
