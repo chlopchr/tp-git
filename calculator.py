@@ -9,6 +9,6 @@ def soustraction(a,b):
 def division(a,b):
     if a!=0 and b!=0 :
         return a/b
-    else :
-        return None
+    
+    return None
     
